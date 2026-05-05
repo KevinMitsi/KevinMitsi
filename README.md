@@ -45,8 +45,4 @@
 
 ---
 
----
-
----
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinMitsi&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
