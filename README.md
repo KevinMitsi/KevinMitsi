@@ -33,7 +33,7 @@
 ## 👋 About Me
 
 🧑‍💻 I'm **Kevin Andres Garcia Aguirre**, Full Stack Developer.<br/>
-💼 Based in **Armenia, Colombia**, working at ****.<br/>
+💼 Based in **Armenia, Colombia**, working at **ProScience Lab**.<br/>
 🌱 Currently learning: **Cyber Security, Quality Software Frameworks**<br/>
 💬 Ask me about: **Backend development, Java, Spring, AWS**<br/>
 
