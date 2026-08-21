@@ -29,6 +29,14 @@
 <br clear="both"/>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMitsi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinMitsi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" width="48%" />
+</p>
+---
+
+
+---
 
 ## 👋 About Me
 
@@ -43,7 +51,3 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinandresgarciaaguirre@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-andr%C3%A9s-garc%C3%ADa-aguirre/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinMitsi)
 
----
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinMitsi&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
