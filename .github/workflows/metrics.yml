@@ -7,6 +7,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite guardar/actualizar el archivo SVG
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,7 +16,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           
-        
+          # Configuración de lenguajes
           plugin_languages: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_sections: most-used
