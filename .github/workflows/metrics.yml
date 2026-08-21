@@ -2,7 +2,7 @@ name: Metrics
 on:
   schedule:
     - cron: "0 0 * * *" # Se ejecuta cada medianoche
-  workflow_dispatch: # Permite ejecutarlo manualmente cuando quieras
+  workflow_dispatch: # Permite ejecutarlo manualmente cuando quiera
 
 jobs:
   github-metrics:
