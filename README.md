@@ -37,21 +37,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinMitsi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMitsi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="./github-metrics.svg" alt="Metrics Pie Chart" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinMitsi/KevinMitsi/main/github-metrics.svg" alt="Metrics Pie Chart" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinMitsi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=KevinMitsi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
