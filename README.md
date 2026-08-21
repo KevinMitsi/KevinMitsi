@@ -35,7 +35,10 @@
 </p>
 ---
 
-
+<p align="center">
+  <img src="https://github.com/KevinMitsi/KevinMitsi/blob/main/github-metrics.svg" alt="Metrics Pie Chart" />
+</p>
+---
 ---
 
 ## 👋 About Me
