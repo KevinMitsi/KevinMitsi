@@ -40,7 +40,7 @@
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinMitsi/KevinMitsi/main/github-metrics.svg" alt="Metrics Pie Chart" />
+  <img src="https://raw.githubusercontent.com/KevinMitsi/KevinMitsi/master/github-metrics.svg" alt="Metrics Pie Chart" />
 </p>
 
 <p align="center">
