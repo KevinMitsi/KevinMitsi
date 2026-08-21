@@ -8,11 +8,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite guardar/actualizar el archivo SVG
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Usa tu PAT para la API y para hacer el commit
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           
